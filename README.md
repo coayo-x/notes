@@ -297,6 +297,8 @@ Power supply too weak (2A is insufficient).
 * Most failures are hardware-related, not software-related.
 
 
+<br>
 
-
-<img src="ledsetup.jpg" width="50%" style="border-radius:50%;">
+<img src="ledsetup.jpg"
+     width="50%"
+     style="border-radius:20px;">
