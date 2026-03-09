@@ -296,5 +296,4 @@ Power supply too weak (2A is insufficient).
 * Stable power delivery is critical.
 * Most failures are hardware-related, not software-related.
 
-![LED Panel](ledsetup.jpg)
-<img src="ledsetup.jpg" width="50%">
+<img src="ledsetup.jpg" width="50%" style="border-radius:12px;">
