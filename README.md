@@ -295,3 +295,5 @@ Power supply too weak (2A is insufficient).
 * Piomatter is required for proper Pi 5 operation.
 * Stable power delivery is critical.
 * Most failures are hardware-related, not software-related.
+
+![LED Panel](ledsetup.jpg)
