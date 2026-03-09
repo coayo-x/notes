@@ -300,6 +300,4 @@ Power supply too weak (2A is insufficient).
 <br>
 <br> 
 <br> 
-<div style="overflow:hidden; border-radius:20px; width:50%;">
-  <img src="ledsetup.jpg" style="width:100%;">
-</div>
+<img src="ledsetup.jpg" width="50%" style="border-radius:20px; display:block;">
